@@ -35,8 +35,8 @@
 |:----    |:---|:----- |-----   |
 |version |  是  |    int   |    版本   |
 |beta |  是  |    string   |    无   |
-|session_key |  是  |    string   |    登录key   |
-|lat |  是  |    string   |    精度   |
-|lnt |  是  |    string   |    纬度   |
+|session_key |  否  |    string   |    登录key   |
+|lat |  否  |    string   |    精度   |
+|lnt |  否 |    string   |    纬度   |
 
 
